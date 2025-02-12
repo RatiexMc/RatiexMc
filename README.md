@@ -1,5 +1,4 @@
 ![Header](./PortadaGit.png)
-# **BOTÓN PARA VER ESPAÑOL Y ENGLISH**
 #### 💻 **Desarrollador Junior**
 Aquí encontrarás una colección de códigos y fragmentos de código que reflejan mi aprendizaje y evolución de desarrollo personal en el mundo de creación de software. Me encanta explorar nuevas tecnologías, aplicar buenas prácticas, encontrar soluciones innovadoras y eficientes.
 Creo firmemente en el trabajo en equipo y en el aprendizaje continuo como pilares fundamentales para enfrentar desafíos ambiciosos.
@@ -42,11 +41,8 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 
 
  ***
-### Experiencias Laborales
+### Experiencias Laborales y Proyectos realizados
 ![Robot](./robot.gif)
-***
-### Proyectos
-**En proceso**
 ***
 ### 🎓 Educación
 - **Ingeniería Informática**  
