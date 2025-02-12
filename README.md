@@ -45,7 +45,7 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 <p align="center">
   <img src="./robot.gif" alt="Descripción del GIF" width="250">
 </p>
-
+**Proximamente subiré todo**
 ***
 ### 🎓 Educación
 - **Ingeniería Informática**  
@@ -55,6 +55,7 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 - **Bachiller Técnico en Servicios**  
   *Colegio Técnico Privado Juan XXIII*  
   *2020*
+
 ***
 ### 📚 Cursos y Certificaciones
 - **Capacitación en Ciberseguridad**  
