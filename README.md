@@ -15,6 +15,7 @@ Si compartes la misma pasión por la tecnología, estaré encantado de colaborar
 
 * 🖥️  Este es mi portafolio [próximamente...]( https://google.com)
 
+###### Proximamente..
 [![Descargar mi CV](https://img.shields.io/badge/Descargar%20mi%20CV-%232A2A2A.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://google.com) 
 
 ***
@@ -42,7 +43,10 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 
  ***
 ### Experiencias Laborales y Proyectos realizados
-![Robot](./robot.gif)
+<p align="center">
+  <img src="./robot.gif" alt="Descripción del GIF" width="250">
+</p>
+
 ***
 ### 🎓 Educación
 - **Ingeniería Informática**  
@@ -72,16 +76,10 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 ### 📞 Contacto y Redes Sociales  
 
 📱 **Teléfono:** +595 975464192  
-🔗 **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/tuperfil)  
-
-🌐 **Otras plataformas:**  
-- 🎮 **Steam:** [TuPerfil](#)  
-- ⚔️ **Riot Games:** [TuUsuario](#)  
-- 🎮 **Epic Games:** [TuUsuario](#)  
-- 🎵 **Spotify:** [TuPerfil](#)  
-- 💬 **Discord:** [TuUsuario#1234](#)  
-- 📸 **Instagram:** [@TuUsuario](#)  
-- 🧵 **Threads:** [@TuUsuario](#)  
+🔗 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/junior-vela%C3%BAstegui-6054b0350/)    
+💬 **Discord: ratiexmc**   
+📸 **Instagram:** [@jvelaus07](https://www.instagram.com/jvelaus07/)  
+🧵 **Threads:** [@jvelaus07](https://www.threads.net/@jvelaus07)  
 ***
 ### ¡Gracias por visitar este repositorio! 🚀  
 Aprecio que te hayas tomado el tiempo y interés de explorar este proyecto. 
@@ -90,4 +88,6 @@ Este repositorio es parte de mi aprendizaje y crecimiento en el mundo del desarr
 
 💻 ¡Feliz Coding! ✨
 ***
-![Robot](./robot2.gif)
+<p align="center">
+  <img src="./robot2.gif" alt="Descripción del GIF" width="350">
+</p>
