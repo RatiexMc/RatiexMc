@@ -45,7 +45,9 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 <p align="center">
   <img src="./robot.gif" alt="Descripción del GIF" width="250">
 </p>
-**Proximamente subiré todo**
+
+
+###### Proximamente..
 ***
 ### 🎓 Educación
 - **Ingeniería Informática**  
