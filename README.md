@@ -11,7 +11,7 @@ Si compartes la misma pasión por la tecnología, estaré encantado de colaborar
 
 * 🌍  Vivo de Paraguay
 
-* ✉️  Mi correo: [ratiexmc@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJTMXPWxxRwQmmCPJtbFPBqDqHQjlPgqLWNtnWBRKLcrPznVNLvzVWbTjKxlwfTFsfTqbzL)
+* ✉️  Mi correo de contacto es: [ratiexmc@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJTMXPWxxRwQmmCPJtbFPBqDqHQjlPgqLWNtnWBRKLcrPznVNLvzVWbTjKxlwfTFsfTqbzL)
 
 * 🖥️  Este es mi portafolio [próximamente...]( https://google.com)
 
@@ -25,7 +25,7 @@ Si compartes la misma pasión por la tecnología, estaré encantado de colaborar
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ***
 ### Intereses 
@@ -48,7 +48,7 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 </p>
 
 
-###### Proximamente.. 
+###### Proximamente..(Lo tengo privado, Pienso publicarla al finalizarla) 
 ***
 ### 🎓 Educación
 - **Ingeniería Informática**  
@@ -63,6 +63,8 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 ### 📚 Cursos y Certificaciones
 - **Capacitación en Ciberseguridad**  
   *Escuela de Gobierno-UNIDA Paraguay-CYBEROPRAC - 2024*
+- **Java para Principianes**  
+  *TodoCode Academy- 2025*
 - **Diseño Web BootStrap - Sistema E-learning**  
 - **Redes I- Introducción a las redes de Computadoras**  
 - **Robótica EV3 - Sistema E-learning**  
@@ -74,7 +76,7 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 - **Prevención délitos cibérneticos**
 - **Seguridad en Dispositivos móviles y aplicativos(Datos personales)**
 - **Control de Versiones**        
-  *Capacítate para el Empleo 'Fundación Carlos Slim'*
+  *Capacítate para el Empleo 'Fundación Carlos Slim' 2020*
 - **Hacking Ético Gamificado**  
   *Academia de Ciberseguridad 'Hacker Mentor 2019'*
 ***
