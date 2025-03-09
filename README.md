@@ -14,10 +14,6 @@ Si compartes la misma pasión por la tecnología, estaré encantado de colaborar
 * ✉️  Mi correo de contacto es: [ratiexmc@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJTMXPWxxRwQmmCPJtbFPBqDqHQjlPgqLWNtnWBRKLcrPznVNLvzVWbTjKxlwfTFsfTqbzL)
 
 * 🖥️  Este es mi portafolio [próximamente...]( https://google.com)
-
-###### Proximamente..
-[![Descargar mi CV](https://img.shields.io/badge/Descargar%20mi%20CV-%232A2A2A.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://google.com) 
-
 ***
 ### 🛠 Tecnologías/Skills
 Áreas en las que me encuentro aprendiendo y profundizando, tanto por interés personal como profesional
@@ -48,37 +44,7 @@ Habilidades técnicas que me gustaría desarrollar durante mi formación y exper
 
 
 ###### Proximamente..(Lo tengo privado, Pienso publicarla al finalizarla) 
-***
-### 🎓 Educación
-- **Ingeniería Informática**  
-  *Universidad del Norte(Uninorte)*  
-  *2025 - Actualidad*
 
-- **Bachiller Técnico en Servicios**  
-  *Colegio Técnico Privado Juan XXIII*  
-  *2020*
-
-***
-### 📚 Cursos y Certificaciones
-- **Capacitación en Ciberseguridad**  
-  *Escuela de Gobierno-UNIDA Paraguay-CYBEROPRAC - 2024*
-- **Java para Principianes**  
-  *TodoCode Academy- 2025*
-- **Diseño Web BootStrap - Sistema E-learning**  
-- **Redes I- Introducción a las redes de Computadoras**  
-- **Robótica EV3 - Sistema E-learning**  
-  *SNPP - 2023*
-- **Funcionamiento CoDi**  
-- **Programador en C#**  
-- **Finder**
-- **Fundamentos de la virtualización**
-- **Prevención délitos cibérneticos**
-- **Seguridad en Dispositivos móviles y aplicativos(Datos personales)**
-- **Control de Versiones**        
-  *Capacítate para el Empleo 'Fundación Carlos Slim' 2020*
-- **Hacking Ético Gamificado**  
-  *Academia de Ciberseguridad 'Hacker Mentor 2019'*
-***
 ### 📞 Contacto y Redes Sociales  
  
 🔗 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/junior-vela%C3%BAstegui-6054b0350/)    
